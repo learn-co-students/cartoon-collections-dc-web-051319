@@ -50,7 +50,7 @@ planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 ```
 
 It should then capitalize each element and add an exclamation point at the end.
-The return value of this method should be an array, in this example:
+The return value of this method should be an array, in this example:\
 
 ```
 summon_captain_planet(planeteer_calls)
